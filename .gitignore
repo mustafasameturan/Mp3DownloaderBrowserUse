@@ -1,0 +1,6 @@
+.venv/
+.env
+downloads/
+*.txt
+*.gif
+.DS_Store
